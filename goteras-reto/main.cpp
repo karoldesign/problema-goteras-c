@@ -10,6 +10,7 @@ using namespace std;
 
 void casoDePrueba() {
     int seconds, hours, min, sec;
+    cout << "1: " << endl;
     cin >> seconds;
     
     hours = seconds / 3600;
